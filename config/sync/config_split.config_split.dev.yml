@@ -5,15 +5,14 @@ dependencies: {  }
 id: dev
 label: Dev
 folder: ../config/split/dev
-module:
-  environment_indicator: 0
+module: {  }
 theme: {  }
 blacklist: {  }
 graylist:
   - system.site
   - devel.settings
   - devel.toolbar.settings
-  - environment_indicator.settings
+  - environment_indicator.indicator
 graylist_dependents: false
 graylist_skip_equal: false
 weight: 0
