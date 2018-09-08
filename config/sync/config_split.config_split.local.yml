@@ -6,6 +6,8 @@ id: local
 label: local
 folder: ../config/split/local
 module:
+  admin_toolbar: 0
+  admin_toolbar_tools: 0
   webprofiler: 0
   environment_indicator: 0
 theme: {  }

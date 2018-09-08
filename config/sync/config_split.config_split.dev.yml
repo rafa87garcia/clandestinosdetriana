@@ -13,6 +13,7 @@ graylist:
   - system.site
   - devel.settings
   - devel.toolbar.settings
+  - environment_indicator.settings
 graylist_dependents: false
 graylist_skip_equal: false
 weight: 0
