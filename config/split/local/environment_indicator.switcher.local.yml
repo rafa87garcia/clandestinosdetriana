@@ -1,0 +1,10 @@
+uuid: 26492ef2-fc94-486f-9309-b9ad0cf962b5
+langcode: en
+status: true
+dependencies: {  }
+machine: local
+description: null
+name: Local
+url: 'http://clandestinosdetriana.local'
+fg_color: '#ffffff'
+bg_color: '#0071b8'

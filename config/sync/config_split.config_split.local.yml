@@ -1,0 +1,19 @@
+uuid: 271d6723-3224-4017-bd0b-47b36e7767be
+langcode: en
+status: false
+dependencies: {  }
+id: local
+label: local
+folder: ../config/split/local
+module:
+  webprofiler: 0
+  environment_indicator: 0
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+  - devel.settings
+  - devel.toolbar.settings
+graylist_dependents: false
+graylist_skip_equal: false
+weight: 0

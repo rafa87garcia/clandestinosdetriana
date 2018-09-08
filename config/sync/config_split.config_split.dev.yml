@@ -1,0 +1,18 @@
+uuid: 7eaeb1be-3f4a-4ebe-b937-5858391318ed
+langcode: en
+status: false
+dependencies: {  }
+id: dev
+label: Dev
+folder: ../config/split/dev
+module:
+  environment_indicator: 0
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+  - devel.settings
+  - devel.toolbar.settings
+graylist_dependents: false
+graylist_skip_equal: false
+weight: 0
