@@ -5,6 +5,6 @@ dependencies: {  }
 machine: dev
 description: null
 name: Dev
-url: 'http://dev.clandestinosderiana.me'
+url: 'http://dev.clandestinosdetriana.me'
 fg_color: '#ffffff'
 bg_color: '#57af1e'
