@@ -6,6 +6,7 @@ id: local
 label: local
 folder: ../config/split/local
 module:
+  devel: 0
   admin_toolbar: 0
   admin_toolbar_tools: 0
   webprofiler: 0

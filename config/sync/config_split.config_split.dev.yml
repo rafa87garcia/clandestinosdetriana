@@ -5,7 +5,8 @@ dependencies: {  }
 id: dev
 label: Dev
 folder: ../config/split/dev
-module: {  }
+module:
+  devel: 0
 theme: {  }
 blacklist: {  }
 graylist:
