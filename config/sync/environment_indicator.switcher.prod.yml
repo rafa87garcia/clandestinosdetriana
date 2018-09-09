@@ -1,0 +1,10 @@
+uuid: 07959ceb-9ac0-4e59-b7ff-8f104f7e2315
+langcode: en
+status: true
+dependencies: {  }
+machine: prod
+description: null
+name: Prod
+url: 'http://clandestinosdetriana.me'
+fg_color: '#ffffff'
+bg_color: '#990000'
