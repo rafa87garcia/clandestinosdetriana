@@ -11,11 +11,11 @@ module:
   admin_toolbar_tools: 0
   webprofiler: 0
 theme: {  }
-blacklist: {  }
-graylist:
-  - system.site
+blacklist:
   - devel.settings
   - devel.toolbar.settings
+graylist:
+  - system.site
   - environment_indicator.indicator
 graylist_dependents: false
 graylist_skip_equal: false
